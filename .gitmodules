@@ -8,8 +8,3 @@
 	url = https://github.com/ryan-thompson/familial
 	shallow = true
 	registered = true
-[submodule "grpsel"]
-	path = grpsel
-	url = https://github.com/ryan-thompson/grpsel
-	shallow = true
-	registered = true
