@@ -2,5 +2,9 @@
   {
     "package": "familial",
     "oncran": true
+  },
+  {
+    "package": "grpsel",
+    "oncran": true
   }
 ]
