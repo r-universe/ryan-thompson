@@ -5,6 +5,9 @@
 [submodule "familial"]
 	path = familial
 	url = https://github.com/ryan-thompson/familial
+[submodule "glmmsel"]
+	path = glmmsel
+	url = https://github.com/ryan-thompson/glmmsel
 [submodule "grpsel"]
 	path = grpsel
 	url = https://github.com/ryan-thompson/grpsel
